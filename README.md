@@ -11,6 +11,10 @@ make payments.
 Import this project to IntelliJ as a Maven project.
 IntelliJ can auto-install the dependencies based on the pom.xml
 
-## The implementation
+## Screenshoots
 
-![implementation](src/main/webapp/static/img/cart.png)
+![main page](images/screenshotMainPage.png)
+
+![cart](images/screenshotCart.png)
+
+![checkout](images/screenshotCheckout)
