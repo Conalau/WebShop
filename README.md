@@ -17,4 +17,4 @@ IntelliJ can auto-install the dependencies based on the pom.xml
 
 ![cart](images/screenshotCart.png)
 
-![checkout](images/screenshotCheckout)
+![checkout](images/screenshotCheckout.png)
